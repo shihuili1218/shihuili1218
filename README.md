@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <a href="https://reddit.com/user/NTBBloodbath" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" /></a>
-  <a href="https://t.me/NTBBloodbath" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="https://discord.com/users/387036585033465856" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/shihuili1218/klein" target="_blank"><img src="https://img.shields.io/badge/klein-paxos-brightgreen?style=for-the-badge&logo=&logoColor=white" alt="Visualize everything, algorithm, framework...." /></a>
+  <a href="https://github.com/shihuili1218/visual" target="_blank"><img src="https://img.shields.io/badge/klein-paxos-brightgreen?style=for-the-badge&logo=&logoColor=white" alt="Klein is a Paxos based distributed caching framework" /></a>
+  <a href="https://ofcoder.com" target="_blank"><img src="https://img.shields.io/badge/ofcoder-blog-brightgreen?style=for-the-badge&logo=discord&logoColor=white" alt="Blogs" /></a>
 </p> 
 
 ![](https://raw.githubusercontent.com/shihuili1218/shihuili1218/output/github-contribution-grid-snake.svg)
