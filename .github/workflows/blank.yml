@@ -19,7 +19,7 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
-    steps:
+    steps:    
       # Generates the snake  
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk@master
@@ -38,3 +38,9 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Push to GitHub
+        uses: EndBug/add-and-commit@v7.2.1
+        with:
+          branch: main
+          message: 'Generate Contribution Snake'
