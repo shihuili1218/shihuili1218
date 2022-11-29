@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **shihuili1218/shihuili1218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there 👋
+
+
+<p align="center">
+  <a href="https://reddit.com/user/NTBBloodbath" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" /></a>
+  <a href="https://t.me/NTBBloodbath" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://discord.com/users/387036585033465856" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+</p> 
+
+![](https://raw.githubusercontent.com/shihuili1218/shihuili1218/output/github-contribution-grid-snake.svg)
